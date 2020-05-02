@@ -1,0 +1,9 @@
+/Users/mohammadassad/Desktop/120 days of coding /netcore and react/Reactivities/Domain/bin/Debug/netstandard2.1/Domain.deps.json
+/Users/mohammadassad/Desktop/120 days of coding /netcore and react/Reactivities/Domain/bin/Debug/netstandard2.1/Domain.dll
+/Users/mohammadassad/Desktop/120 days of coding /netcore and react/Reactivities/Domain/bin/Debug/netstandard2.1/Domain.pdb
+/Users/mohammadassad/Desktop/120 days of coding /netcore and react/Reactivities/Domain/obj/Debug/netstandard2.1/Domain.csprojAssemblyReference.cache
+/Users/mohammadassad/Desktop/120 days of coding /netcore and react/Reactivities/Domain/obj/Debug/netstandard2.1/Domain.csproj.CoreCompileInputs.cache
+/Users/mohammadassad/Desktop/120 days of coding /netcore and react/Reactivities/Domain/obj/Debug/netstandard2.1/Domain.AssemblyInfoInputs.cache
+/Users/mohammadassad/Desktop/120 days of coding /netcore and react/Reactivities/Domain/obj/Debug/netstandard2.1/Domain.AssemblyInfo.cs
+/Users/mohammadassad/Desktop/120 days of coding /netcore and react/Reactivities/Domain/obj/Debug/netstandard2.1/Domain.dll
+/Users/mohammadassad/Desktop/120 days of coding /netcore and react/Reactivities/Domain/obj/Debug/netstandard2.1/Domain.pdb

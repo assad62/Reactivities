@@ -1,0 +1,12 @@
+/Users/mohammadassad/Desktop/120 days of coding /netcore and react/Reactivities/Persistence/bin/Debug/netstandard2.1/Persistence.deps.json
+/Users/mohammadassad/Desktop/120 days of coding /netcore and react/Reactivities/Persistence/bin/Debug/netstandard2.1/Persistence.dll
+/Users/mohammadassad/Desktop/120 days of coding /netcore and react/Reactivities/Persistence/bin/Debug/netstandard2.1/Persistence.pdb
+/Users/mohammadassad/Desktop/120 days of coding /netcore and react/Reactivities/Persistence/bin/Debug/netstandard2.1/Domain.dll
+/Users/mohammadassad/Desktop/120 days of coding /netcore and react/Reactivities/Persistence/bin/Debug/netstandard2.1/Domain.pdb
+/Users/mohammadassad/Desktop/120 days of coding /netcore and react/Reactivities/Persistence/obj/Debug/netstandard2.1/Persistence.csprojAssemblyReference.cache
+/Users/mohammadassad/Desktop/120 days of coding /netcore and react/Reactivities/Persistence/obj/Debug/netstandard2.1/Persistence.csproj.CoreCompileInputs.cache
+/Users/mohammadassad/Desktop/120 days of coding /netcore and react/Reactivities/Persistence/obj/Debug/netstandard2.1/Persistence.AssemblyInfoInputs.cache
+/Users/mohammadassad/Desktop/120 days of coding /netcore and react/Reactivities/Persistence/obj/Debug/netstandard2.1/Persistence.AssemblyInfo.cs
+/Users/mohammadassad/Desktop/120 days of coding /netcore and react/Reactivities/Persistence/obj/Debug/netstandard2.1/Persistence.csproj.CopyComplete
+/Users/mohammadassad/Desktop/120 days of coding /netcore and react/Reactivities/Persistence/obj/Debug/netstandard2.1/Persistence.dll
+/Users/mohammadassad/Desktop/120 days of coding /netcore and react/Reactivities/Persistence/obj/Debug/netstandard2.1/Persistence.pdb
